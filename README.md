@@ -98,4 +98,4 @@
 
 <p><img align="left" width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=girijashankar7894&show_icons=true&locale=en&layout=compact" alt="girijashankar7894" /></p>
 
-<p>&nbsp;<img align="right" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=girijashankar7894&show_icons=true&locale=en" alt="girijashankar7894" /></p>
+<p>&nbsp;<img align="right" width="450px" height="200px" src="https://github-readme-stats.vercel.app/api?username=girijashankar7894&show_icons=true&locale=en" alt="girijashankar7894" /></p>
