@@ -96,6 +96,6 @@
  
 </p>
 
-<p><img align="left" width="380px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=girijashankar7894&show_icons=true&locale=en&layout=compact" alt="girijashankar7894" /></p>
+<p><img align="left" width="370px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=girijashankar7894&show_icons=true&locale=en&layout=compact" alt="girijashankar7894" /></p>
 
-<p>&nbsp;<img align="right" width="430px" height="200px" src="https://github-readme-stats.vercel.app/api?username=girijashankar7894&show_icons=true&locale=en" alt="girijashankar7894" /></p>
+<p>&nbsp;<img align="right" width="420px" height="200px" src="https://github-readme-stats.vercel.app/api?username=girijashankar7894&show_icons=true&locale=en" alt="girijashankar7894" /></p>
