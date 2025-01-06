@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=girijashankar7894&label=Profile%20views&color=0e75b6&style=flat" alt="girijashankar7894" /> 
 </p>
 
+- ✨ I’m currently working as a **freelancer**
+
 - 🔭 A seasoned **Software Developer** with 11 months of experience at **[UtkalGeeks](https://utkalgeeks.org/)**, actively contributing to developing and maintaining software applications.
 
 - 🌱 I completed **Full Stack Web Development (MERN)** from **Testbook**
