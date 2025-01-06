@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=girijashankar7894&label=Profile%20views&color=0e75b6&style=flat" alt="girijashankar7894" /> 
 </p>
 
-- 🔭 I’m currently working on **[UtkalGeeks](https://utkalgeeks.org/)** as a **Software Developer**
+- 🔭 A seasoned **Software Developer** with 11 months of experience at **[UtkalGeeks](https://utkalgeeks.org/)**, actively contributing to developing and maintaining software applications.
 
-- 🌱 I’m currently learning **Full Stack Web Development (MERN)** from **Testbook**
+- 🌱 I completed **Full Stack Web Development (MERN)** from **Testbook**
 
 - 📫 How to reach me **girijashankar7894@gmail.com**
 
